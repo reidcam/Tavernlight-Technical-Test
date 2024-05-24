@@ -1,0 +1,3 @@
+I ran out of time to work on the effects for questions 5, 6, 7. The video is to show that I got the server up and running and could login to the server with an account and character.
+
+Server functionality video link: https://youtu.be/k_qo4z5vBlo
